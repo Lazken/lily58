@@ -17,7 +17,6 @@
             bindings = <&mt LALT BACKSPACE>, <&kp BACKSPACE>;
         };
     };
-
     keymap {
         compatible = "zmk,keymap";
 
